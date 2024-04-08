@@ -1,0 +1,725 @@
+# text = I heartily congratulate all of you on this important program of Sri Aurobindo’s 150th birth anniversary.
+# sent_id = 1
+1	I	_	_	_	_	_	_	_	_
+2	heartily	_	_	_	_	_	_	_	_
+3	congratulate	_	_	_	_	_	_	_	_
+4	all	_	_	_	_	_	_	_	_
+5	of	_	_	_	_	_	_	_	_
+6	you	_	_	_	_	_	_	_	_
+7	on	_	_	_	_	_	_	_	_
+8	this	_	_	_	_	_	_	_	_
+9	important	_	_	_	_	_	_	_	_
+10	program	_	_	_	_	_	_	_	_
+11	of	_	_	_	_	_	_	_	_
+12	Sri	_	_	_	_	_	_	_	_
+13	Aurobindo	_	_	_	_	_	_	_	_
+14	’s	_	_	_	_	_	_	_	_
+15	150th	_	_	_	_	_	_	_	_
+16	birth	_	_	_	_	_	_	_	_
+17	anniversary	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# text = I also extend my best wishes to all the countrymen on this auspicious occasion.
+# sent_id = 2
+1	I	_	_	_	_	_	_	_	_
+2	also	_	_	_	_	_	_	_	_
+3	extend	_	_	_	_	_	_	_	_
+4	my	_	_	_	_	_	_	_	_
+5	best	_	_	_	_	_	_	_	_
+6	wishes	_	_	_	_	_	_	_	_
+7	to	_	_	_	_	_	_	_	_
+8	all	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	countrymen	_	_	_	_	_	_	_	_
+11	on	_	_	_	_	_	_	_	_
+12	this	_	_	_	_	_	_	_	_
+13	auspicious	_	_	_	_	_	_	_	_
+14	occasion	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# text = Sri Aurobindo’s 150th birth anniversary is a historic occasion for the entire country.
+# sent_id = 3
+1	Sri	_	_	_	_	_	_	_	_
+2	Aurobindo	_	_	_	_	_	_	_	_
+3	’s	_	_	_	_	_	_	_	_
+4	150th	_	_	_	_	_	_	_	_
+5	birth	_	_	_	_	_	_	_	_
+6	anniversary	_	_	_	_	_	_	_	_
+7	is	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	historic	_	_	_	_	_	_	_	_
+10	occasion	_	_	_	_	_	_	_	_
+11	for	_	_	_	_	_	_	_	_
+12	the	_	_	_	_	_	_	_	_
+13	entire	_	_	_	_	_	_	_	_
+14	country	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# text = Several programs are also being organized under the aegis of the Ministry of Culture.
+# sent_id = 6
+1	Several	_	_	_	_	_	_	_	_
+2	programs	_	_	_	_	_	_	_	_
+3	are	_	_	_	_	_	_	_	_
+4	also	_	_	_	_	_	_	_	_
+5	being	_	_	_	_	_	_	_	_
+6	organized	_	_	_	_	_	_	_	_
+7	under	_	_	_	_	_	_	_	_
+8	the	_	_	_	_	_	_	_	_
+9	aegis	_	_	_	_	_	_	_	_
+10	of	_	_	_	_	_	_	_	_
+11	the	_	_	_	_	_	_	_	_
+12	Ministry	_	_	_	_	_	_	_	_
+13	of	_	_	_	_	_	_	_	_
+14	Culture	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# text = Today a commemorative coin and postal stamp on Sri Aurobindo has also been released.
+# sent_id = 8
+1	Today	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	commemorative	_	_	_	_	_	_	_	_
+4	coin	_	_	_	_	_	_	_	_
+5	and	_	_	_	_	_	_	_	_
+6	postal	_	_	_	_	_	_	_	_
+7	stamp	_	_	_	_	_	_	_	_
+8	on	_	_	_	_	_	_	_	_
+9	Sri	_	_	_	_	_	_	_	_
+10	Aurobindo	_	_	_	_	_	_	_	_
+11	has	_	_	_	_	_	_	_	_
+12	also	_	_	_	_	_	_	_	_
+13	been	_	_	_	_	_	_	_	_
+14	released	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# text = Several amazing events happen simultaneously in the same period several times during history.
+# sent_id = 11
+1	Several	_	_	_	_	_	_	_	_
+2	amazing	_	_	_	_	_	_	_	_
+3	events	_	_	_	_	_	_	_	_
+4	happen	_	_	_	_	_	_	_	_
+5	simultaneously	_	_	_	_	_	_	_	_
+6	in	_	_	_	_	_	_	_	_
+7	the	_	_	_	_	_	_	_	_
+8	same	_	_	_	_	_	_	_	_
+9	period	_	_	_	_	_	_	_	_
+10	several	_	_	_	_	_	_	_	_
+11	times	_	_	_	_	_	_	_	_
+12	during	_	_	_	_	_	_	_	_
+13	history	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# text = But, these are generally considered to be just a coincidence.
+# sent_id = 12
+1	But	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	these	_	_	_	_	_	_	_	_
+4	are	_	_	_	_	_	_	_	_
+5	generally	_	_	_	_	_	_	_	_
+6	considered	_	_	_	_	_	_	_	_
+7	to	_	_	_	_	_	_	_	_
+8	be	_	_	_	_	_	_	_	_
+9	just	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	coincidence	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# text = I believe there is some ‘Yoga Shakti’ behind such coincidences.
+# sent_id = 13
+1	I	_	_	_	_	_	_	_	_
+2	believe	_	_	_	_	_	_	_	_
+3	there	_	_	_	_	_	_	_	_
+4	is	_	_	_	_	_	_	_	_
+5	some	_	_	_	_	_	_	_	_
+6	‘	_	_	_	_	_	_	_	_
+7	Yoga	_	_	_	_	_	_	_	_
+8	Shakti	_	_	_	_	_	_	_	_
+9	’	_	_	_	_	_	_	_	_
+10	behind	_	_	_	_	_	_	_	_
+11	such	_	_	_	_	_	_	_	_
+12	coincidences	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# text = ‘Yoga Shakti’ means a collective power, a power that unites all!
+# sent_id = 14
+1	‘	_	_	_	_	_	_	_	_
+2	Yoga	_	_	_	_	_	_	_	_
+3	Shakti	_	_	_	_	_	_	_	_
+4	’	_	_	_	_	_	_	_	_
+5	means	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	collective	_	_	_	_	_	_	_	_
+8	power	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	power	_	_	_	_	_	_	_	_
+12	that	_	_	_	_	_	_	_	_
+13	unites	_	_	_	_	_	_	_	_
+14	all	_	_	_	_	_	_	_	_
+15	!	_	_	_	_	_	_	_	_
+
+# text = These incidents changed the lives of these great men and also brought major changes in the nation.
+# sent_id = 17
+1	These	_	_	_	_	_	_	_	_
+2	incidents	_	_	_	_	_	_	_	_
+3	changed	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	lives	_	_	_	_	_	_	_	_
+6	of	_	_	_	_	_	_	_	_
+7	these	_	_	_	_	_	_	_	_
+8	great	_	_	_	_	_	_	_	_
+9	men	_	_	_	_	_	_	_	_
+10	and	_	_	_	_	_	_	_	_
+11	also	_	_	_	_	_	_	_	_
+12	brought	_	_	_	_	_	_	_	_
+13	major	_	_	_	_	_	_	_	_
+14	changes	_	_	_	_	_	_	_	_
+15	in	_	_	_	_	_	_	_	_
+16	the	_	_	_	_	_	_	_	_
+17	nation	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# text = Sri Aurobindo returned to India from England in 1893 after 14 years.
+# sent_id = 18
+1	Sri	_	_	_	_	_	_	_	_
+2	Aurobindo	_	_	_	_	_	_	_	_
+3	returned	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	India	_	_	_	_	_	_	_	_
+6	from	_	_	_	_	_	_	_	_
+7	England	_	_	_	_	_	_	_	_
+8	in	_	_	_	_	_	_	_	_
+9	1893	_	_	_	_	_	_	_	_
+10	after	_	_	_	_	_	_	_	_
+11	14	_	_	_	_	_	_	_	_
+12	years	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# text = Brothers and sisters, Today, once again our India is witnessing many such coincidences simultaneously.
+# sent_id = 21
+1	Brothers	_	_	_	_	_	_	_	_
+2	and	_	_	_	_	_	_	_	_
+3	sisters	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Today	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	once	_	_	_	_	_	_	_	_
+8	again	_	_	_	_	_	_	_	_
+9	our	_	_	_	_	_	_	_	_
+10	India	_	_	_	_	_	_	_	_
+11	is	_	_	_	_	_	_	_	_
+12	witnessing	_	_	_	_	_	_	_	_
+13	many	_	_	_	_	_	_	_	_
+14	such	_	_	_	_	_	_	_	_
+15	coincidences	_	_	_	_	_	_	_	_
+16	simultaneously	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# text = In this period, we have been witness to occasions like the 125th birth anniversary of Netaji Subhas Chandra Bose.
+# sent_id = 23
+1	In	_	_	_	_	_	_	_	_
+2	this	_	_	_	_	_	_	_	_
+3	period	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	we	_	_	_	_	_	_	_	_
+6	have	_	_	_	_	_	_	_	_
+7	been	_	_	_	_	_	_	_	_
+8	witness	_	_	_	_	_	_	_	_
+9	to	_	_	_	_	_	_	_	_
+10	occasions	_	_	_	_	_	_	_	_
+11	like	_	_	_	_	_	_	_	_
+12	the	_	_	_	_	_	_	_	_
+13	125th	_	_	_	_	_	_	_	_
+14	birth	_	_	_	_	_	_	_	_
+15	anniversary	_	_	_	_	_	_	_	_
+16	of	_	_	_	_	_	_	_	_
+17	Netaji	_	_	_	_	_	_	_	_
+18	Subhas	_	_	_	_	_	_	_	_
+19	Chandra	_	_	_	_	_	_	_	_
+20	Bose	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# text = When motivation and action are combined, even seemingly impossible goals are inevitably accomplished.
+# sent_id = 24
+1	When	_	_	_	_	_	_	_	_
+2	motivation	_	_	_	_	_	_	_	_
+3	and	_	_	_	_	_	_	_	_
+4	action	_	_	_	_	_	_	_	_
+5	are	_	_	_	_	_	_	_	_
+6	combined	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	even	_	_	_	_	_	_	_	_
+9	seemingly	_	_	_	_	_	_	_	_
+10	impossible	_	_	_	_	_	_	_	_
+11	goals	_	_	_	_	_	_	_	_
+12	are	_	_	_	_	_	_	_	_
+13	inevitably	_	_	_	_	_	_	_	_
+14	accomplished	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# text = The life of Sri Aurobindo is a reflection of ‘Ek Bharat Shreshtha Bharat’.
+# sent_id = 27
+1	The	_	_	_	_	_	_	_	_
+2	life	_	_	_	_	_	_	_	_
+3	of	_	_	_	_	_	_	_	_
+4	Sri	_	_	_	_	_	_	_	_
+5	Aurobindo	_	_	_	_	_	_	_	_
+6	is	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	reflection	_	_	_	_	_	_	_	_
+9	of	_	_	_	_	_	_	_	_
+10	‘	_	_	_	_	_	_	_	_
+11	Ek	_	_	_	_	_	_	_	_
+12	Bharat	_	_	_	_	_	_	_	_
+13	Shreshtha	_	_	_	_	_	_	_	_
+14	Bharat	_	_	_	_	_	_	_	_
+15	’	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# text = Although he was born in Bengal, he spent most of his life in Gujarat and Puducherry.
+# sent_id = 29
+1	Although	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	was	_	_	_	_	_	_	_	_
+4	born	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	Bengal	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	he	_	_	_	_	_	_	_	_
+9	spent	_	_	_	_	_	_	_	_
+10	most	_	_	_	_	_	_	_	_
+11	of	_	_	_	_	_	_	_	_
+12	his	_	_	_	_	_	_	_	_
+13	life	_	_	_	_	_	_	_	_
+14	in	_	_	_	_	_	_	_	_
+15	Gujarat	_	_	_	_	_	_	_	_
+16	and	_	_	_	_	_	_	_	_
+17	Puducherry	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# text = Wherever he went, he left a deep impression of his personality.
+# sent_id = 30
+1	Wherever	_	_	_	_	_	_	_	_
+2	he	_	_	_	_	_	_	_	_
+3	went	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	he	_	_	_	_	_	_	_	_
+6	left	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	deep	_	_	_	_	_	_	_	_
+9	impression	_	_	_	_	_	_	_	_
+10	of	_	_	_	_	_	_	_	_
+11	his	_	_	_	_	_	_	_	_
+12	personality	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# text = This is a great inspiration for the ‘Amrit Kaal’ of independence.
+# sent_id = 34
+1	This	_	_	_	_	_	_	_	_
+2	is	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	great	_	_	_	_	_	_	_	_
+5	inspiration	_	_	_	_	_	_	_	_
+6	for	_	_	_	_	_	_	_	_
+7	the	_	_	_	_	_	_	_	_
+8	‘	_	_	_	_	_	_	_	_
+9	Amrit	_	_	_	_	_	_	_	_
+10	Kaal	_	_	_	_	_	_	_	_
+11	’	_	_	_	_	_	_	_	_
+12	of	_	_	_	_	_	_	_	_
+13	independence	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# text = What can be a better encouragement for ‘Ek Bharat Shreshtha Bharat’?
+# sent_id = 35
+1	What	_	_	_	_	_	_	_	_
+2	can	_	_	_	_	_	_	_	_
+3	be	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	better	_	_	_	_	_	_	_	_
+6	encouragement	_	_	_	_	_	_	_	_
+7	for	_	_	_	_	_	_	_	_
+8	‘	_	_	_	_	_	_	_	_
+9	Ek	_	_	_	_	_	_	_	_
+10	Bharat	_	_	_	_	_	_	_	_
+11	Shreshtha	_	_	_	_	_	_	_	_
+12	Bharat	_	_	_	_	_	_	_	_
+13	’	_	_	_	_	_	_	_	_
+14	?	_	_	_	_	_	_	_	_
+
+# text = I was privileged to be a part of the Kasi-Tamil Sangamam program there.
+# sent_id = 38
+1	I	_	_	_	_	_	_	_	_
+2	was	_	_	_	_	_	_	_	_
+3	privileged	_	_	_	_	_	_	_	_
+4	to	_	_	_	_	_	_	_	_
+5	be	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	part	_	_	_	_	_	_	_	_
+8	of	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	Kasi	_	_	_	_	_	_	_	_
+11	-	_	_	_	_	_	_	_	_
+12	Tamil	_	_	_	_	_	_	_	_
+13	Sangamam	_	_	_	_	_	_	_	_
+14	program	_	_	_	_	_	_	_	_
+15	there	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# text = We got to see in that festival how India is imperishable and steadfast through its tradition and culture.
+# sent_id = 40
+1	We	_	_	_	_	_	_	_	_
+2	got	_	_	_	_	_	_	_	_
+3	to	_	_	_	_	_	_	_	_
+4	see	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	that	_	_	_	_	_	_	_	_
+7	festival	_	_	_	_	_	_	_	_
+8	how	_	_	_	_	_	_	_	_
+9	India	_	_	_	_	_	_	_	_
+10	is	_	_	_	_	_	_	_	_
+11	imperishable	_	_	_	_	_	_	_	_
+12	and	_	_	_	_	_	_	_	_
+13	steadfast	_	_	_	_	_	_	_	_
+14	through	_	_	_	_	_	_	_	_
+15	its	_	_	_	_	_	_	_	_
+16	tradition	_	_	_	_	_	_	_	_
+17	and	_	_	_	_	_	_	_	_
+18	culture	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# text = It was seen in Kashi-Tamil Sangamam what today’s youth thinks.
+# sent_id = 41
+1	It	_	_	_	_	_	_	_	_
+2	was	_	_	_	_	_	_	_	_
+3	seen	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	Kashi	_	_	_	_	_	_	_	_
+6	-	_	_	_	_	_	_	_	_
+7	Tamil	_	_	_	_	_	_	_	_
+8	Sangamam	_	_	_	_	_	_	_	_
+9	what	_	_	_	_	_	_	_	_
+10	today	_	_	_	_	_	_	_	_
+11	’s	_	_	_	_	_	_	_	_
+12	youth	_	_	_	_	_	_	_	_
+13	thinks	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# text = But, when the same Aurobindo returns to the country, he becomes the hero of resistance to British rule.
+# sent_id = 50
+1	But	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	when	_	_	_	_	_	_	_	_
+4	the	_	_	_	_	_	_	_	_
+5	same	_	_	_	_	_	_	_	_
+6	Aurobindo	_	_	_	_	_	_	_	_
+7	returns	_	_	_	_	_	_	_	_
+8	to	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	country	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	he	_	_	_	_	_	_	_	_
+13	becomes	_	_	_	_	_	_	_	_
+14	the	_	_	_	_	_	_	_	_
+15	hero	_	_	_	_	_	_	_	_
+16	of	_	_	_	_	_	_	_	_
+17	resistance	_	_	_	_	_	_	_	_
+18	to	_	_	_	_	_	_	_	_
+19	British	_	_	_	_	_	_	_	_
+20	rule	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# text = He actively participated in the freedom struggle for the independence of the country.
+# sent_id = 51
+1	He	_	_	_	_	_	_	_	_
+2	actively	_	_	_	_	_	_	_	_
+3	participated	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	freedom	_	_	_	_	_	_	_	_
+7	struggle	_	_	_	_	_	_	_	_
+8	for	_	_	_	_	_	_	_	_
+9	the	_	_	_	_	_	_	_	_
+10	independence	_	_	_	_	_	_	_	_
+11	of	_	_	_	_	_	_	_	_
+12	the	_	_	_	_	_	_	_	_
+13	country	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# text = Aurobindo recruited the youth and gave the slogan – ‘No compromise’ during the partition of Bengal.
+# sent_id = 54
+1	Aurobindo	_	_	_	_	_	_	_	_
+2	recruited	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	youth	_	_	_	_	_	_	_	_
+5	and	_	_	_	_	_	_	_	_
+6	gave	_	_	_	_	_	_	_	_
+7	the	_	_	_	_	_	_	_	_
+8	slogan	_	_	_	_	_	_	_	_
+9	–	_	_	_	_	_	_	_	_
+10	‘	_	_	_	_	_	_	_	_
+11	No	_	_	_	_	_	_	_	_
+12	compromise	_	_	_	_	_	_	_	_
+13	’	_	_	_	_	_	_	_	_
+14	during	_	_	_	_	_	_	_	_
+15	the	_	_	_	_	_	_	_	_
+16	partition	_	_	_	_	_	_	_	_
+17	of	_	_	_	_	_	_	_	_
+18	Bengal	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# text = He printed pamphlets named ‘Bhavani Mandir’ and made people surrounded by despair see the cultural nation.
+# sent_id = 55
+1	He	_	_	_	_	_	_	_	_
+2	printed	_	_	_	_	_	_	_	_
+3	pamphlets	_	_	_	_	_	_	_	_
+4	named	_	_	_	_	_	_	_	_
+5	‘	_	_	_	_	_	_	_	_
+6	Bhavani	_	_	_	_	_	_	_	_
+7	Mandir	_	_	_	_	_	_	_	_
+8	’	_	_	_	_	_	_	_	_
+9	and	_	_	_	_	_	_	_	_
+10	made	_	_	_	_	_	_	_	_
+11	people	_	_	_	_	_	_	_	_
+12	surrounded	_	_	_	_	_	_	_	_
+13	by	_	_	_	_	_	_	_	_
+14	despair	_	_	_	_	_	_	_	_
+15	see	_	_	_	_	_	_	_	_
+16	the	_	_	_	_	_	_	_	_
+17	cultural	_	_	_	_	_	_	_	_
+18	nation	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# text = Revolutionaries like Netaji Subhas drew inspiration from him regarding their resolutions.
+# sent_id = 58
+1	Revolutionaries	_	_	_	_	_	_	_	_
+2	like	_	_	_	_	_	_	_	_
+3	Netaji	_	_	_	_	_	_	_	_
+4	Subhas	_	_	_	_	_	_	_	_
+5	drew	_	_	_	_	_	_	_	_
+6	inspiration	_	_	_	_	_	_	_	_
+7	from	_	_	_	_	_	_	_	_
+8	him	_	_	_	_	_	_	_	_
+9	regarding	_	_	_	_	_	_	_	_
+10	their	_	_	_	_	_	_	_	_
+11	resolutions	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# text = He would discourse on serious topics like soul and God and explain ‘Brahma Tatva’ and Upanishads.
+# sent_id = 60
+1	He	_	_	_	_	_	_	_	_
+2	would	_	_	_	_	_	_	_	_
+3	discourse	_	_	_	_	_	_	_	_
+4	on	_	_	_	_	_	_	_	_
+5	serious	_	_	_	_	_	_	_	_
+6	topics	_	_	_	_	_	_	_	_
+7	like	_	_	_	_	_	_	_	_
+8	soul	_	_	_	_	_	_	_	_
+9	and	_	_	_	_	_	_	_	_
+10	God	_	_	_	_	_	_	_	_
+11	and	_	_	_	_	_	_	_	_
+12	explain	_	_	_	_	_	_	_	_
+13	‘	_	_	_	_	_	_	_	_
+14	Brahma	_	_	_	_	_	_	_	_
+15	Tatva	_	_	_	_	_	_	_	_
+16	’	_	_	_	_	_	_	_	_
+17	and	_	_	_	_	_	_	_	_
+18	Upanishads	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# text = He added social service in the philosophy of soul and God.
+# sent_id = 61
+1	He	_	_	_	_	_	_	_	_
+2	added	_	_	_	_	_	_	_	_
+3	social	_	_	_	_	_	_	_	_
+4	service	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	philosophy	_	_	_	_	_	_	_	_
+8	of	_	_	_	_	_	_	_	_
+9	soul	_	_	_	_	_	_	_	_
+10	and	_	_	_	_	_	_	_	_
+11	God	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# text = You can easily learn from the words of Sri Aurobindo how to connect with God.
+# sent_id = 62
+1	You	_	_	_	_	_	_	_	_
+2	can	_	_	_	_	_	_	_	_
+3	easily	_	_	_	_	_	_	_	_
+4	learn	_	_	_	_	_	_	_	_
+5	from	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	words	_	_	_	_	_	_	_	_
+8	of	_	_	_	_	_	_	_	_
+9	Sri	_	_	_	_	_	_	_	_
+10	Aurobindo	_	_	_	_	_	_	_	_
+11	how	_	_	_	_	_	_	_	_
+12	to	_	_	_	_	_	_	_	_
+13	connect	_	_	_	_	_	_	_	_
+14	with	_	_	_	_	_	_	_	_
+15	God	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# text = Today we are accepting and adopting all modern ideas and best practices to make a developed India.
+# sent_id = 65
+1	Today	_	_	_	_	_	_	_	_
+2	we	_	_	_	_	_	_	_	_
+3	are	_	_	_	_	_	_	_	_
+4	accepting	_	_	_	_	_	_	_	_
+5	and	_	_	_	_	_	_	_	_
+6	adopting	_	_	_	_	_	_	_	_
+7	all	_	_	_	_	_	_	_	_
+8	modern	_	_	_	_	_	_	_	_
+9	ideas	_	_	_	_	_	_	_	_
+10	and	_	_	_	_	_	_	_	_
+11	best	_	_	_	_	_	_	_	_
+12	practices	_	_	_	_	_	_	_	_
+13	to	_	_	_	_	_	_	_	_
+14	make	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	developed	_	_	_	_	_	_	_	_
+17	India	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# text = We are working with the mantra of ‘India First’ without any compromise.
+# sent_id = 66
+1	We	_	_	_	_	_	_	_	_
+2	are	_	_	_	_	_	_	_	_
+3	working	_	_	_	_	_	_	_	_
+4	with	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	mantra	_	_	_	_	_	_	_	_
+7	of	_	_	_	_	_	_	_	_
+8	‘	_	_	_	_	_	_	_	_
+9	India	_	_	_	_	_	_	_	_
+10	First	_	_	_	_	_	_	_	_
+11	’	_	_	_	_	_	_	_	_
+12	without	_	_	_	_	_	_	_	_
+13	any	_	_	_	_	_	_	_	_
+14	compromise	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# text = And at the same time, we are presenting our heritage and identity with pride before the entire world.
+# sent_id = 67
+1	And	_	_	_	_	_	_	_	_
+2	at	_	_	_	_	_	_	_	_
+3	the	_	_	_	_	_	_	_	_
+4	same	_	_	_	_	_	_	_	_
+5	time	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	we	_	_	_	_	_	_	_	_
+8	are	_	_	_	_	_	_	_	_
+9	presenting	_	_	_	_	_	_	_	_
+10	our	_	_	_	_	_	_	_	_
+11	heritage	_	_	_	_	_	_	_	_
+12	and	_	_	_	_	_	_	_	_
+13	identity	_	_	_	_	_	_	_	_
+14	with	_	_	_	_	_	_	_	_
+15	pride	_	_	_	_	_	_	_	_
+16	before	_	_	_	_	_	_	_	_
+17	the	_	_	_	_	_	_	_	_
+18	entire	_	_	_	_	_	_	_	_
+19	world	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# text = He translated texts from Ramayana, Mahabharata and Upanishads to Kalidas, Bhavabhuti and Bharatthari.
+# sent_id = 74
+1	He	_	_	_	_	_	_	_	_
+2	translated	_	_	_	_	_	_	_	_
+3	texts	_	_	_	_	_	_	_	_
+4	from	_	_	_	_	_	_	_	_
+5	Ramayana	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	Mahabharata	_	_	_	_	_	_	_	_
+8	and	_	_	_	_	_	_	_	_
+9	Upanishads	_	_	_	_	_	_	_	_
+10	to	_	_	_	_	_	_	_	_
+11	Kalidas	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	Bhavabhuti	_	_	_	_	_	_	_	_
+14	and	_	_	_	_	_	_	_	_
+15	Bharatthari	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# text = People started seeing India in the thoughts of Aurobindo who himself was kept away from Indianness in his youth.
+# sent_id = 75
+1	People	_	_	_	_	_	_	_	_
+2	started	_	_	_	_	_	_	_	_
+3	seeing	_	_	_	_	_	_	_	_
+4	India	_	_	_	_	_	_	_	_
+5	in	_	_	_	_	_	_	_	_
+6	the	_	_	_	_	_	_	_	_
+7	thoughts	_	_	_	_	_	_	_	_
+8	of	_	_	_	_	_	_	_	_
+9	Aurobindo	_	_	_	_	_	_	_	_
+10	who	_	_	_	_	_	_	_	_
+11	himself	_	_	_	_	_	_	_	_
+12	was	_	_	_	_	_	_	_	_
+13	kept	_	_	_	_	_	_	_	_
+14	away	_	_	_	_	_	_	_	_
+15	from	_	_	_	_	_	_	_	_
+16	Indianness	_	_	_	_	_	_	_	_
+17	in	_	_	_	_	_	_	_	_
+18	his	_	_	_	_	_	_	_	_
+19	youth	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# text = Because, India is the most refined idea of human civilization, the most natural voice of humanity.
+# sent_id = 78
+1	Because	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	India	_	_	_	_	_	_	_	_
+4	is	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	_
+6	most	_	_	_	_	_	_	_	_
+7	refined	_	_	_	_	_	_	_	_
+8	idea	_	_	_	_	_	_	_	_
+9	of	_	_	_	_	_	_	_	_
+10	human	_	_	_	_	_	_	_	_
+11	civilization	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	the	_	_	_	_	_	_	_	_
+14	most	_	_	_	_	_	_	_	_
+15	natural	_	_	_	_	_	_	_	_
+16	voice	_	_	_	_	_	_	_	_
+17	of	_	_	_	_	_	_	_	_
+18	humanity	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# text = Today the youth of India is taking pride in its culture.
+# sent_id = 80
+1	Today	_	_	_	_	_	_	_	_
+2	the	_	_	_	_	_	_	_	_
+3	youth	_	_	_	_	_	_	_	_
+4	of	_	_	_	_	_	_	_	_
+5	India	_	_	_	_	_	_	_	_
+6	is	_	_	_	_	_	_	_	_
+7	taking	_	_	_	_	_	_	_	_
+8	pride	_	_	_	_	_	_	_	_
+9	in	_	_	_	_	_	_	_	_
+10	its	_	_	_	_	_	_	_	_
+11	culture	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# text = Saluting Maharishi Aurobindo once again, many thanks to all of you from the bottom of my heart!
+# sent_id = 84
+1	Saluting	_	_	_	_	_	_	_	_
+2	Maharishi	_	_	_	_	_	_	_	_
+3	Aurobindo	_	_	_	_	_	_	_	_
+4	once	_	_	_	_	_	_	_	_
+5	again	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	many	_	_	_	_	_	_	_	_
+8	thanks	_	_	_	_	_	_	_	_
+9	to	_	_	_	_	_	_	_	_
+10	all	_	_	_	_	_	_	_	_
+11	of	_	_	_	_	_	_	_	_
+12	you	_	_	_	_	_	_	_	_
+13	from	_	_	_	_	_	_	_	_
+14	the	_	_	_	_	_	_	_	_
+15	bottom	_	_	_	_	_	_	_	_
+16	of	_	_	_	_	_	_	_	_
+17	my	_	_	_	_	_	_	_	_
+18	heart	_	_	_	_	_	_	_	_
+19	!	_	_	_	_	_	_	_	_
+
