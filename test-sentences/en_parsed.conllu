@@ -1,0 +1,725 @@
+# text = I heartily congratulate all of you on this important program of Sri Aurobindo’s 150th birth anniversary.
+# sent_id = 1
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=10|end_char=11
+2	heartily	heartily	ADV	RB	_	3	advmod	_	start_char=12|end_char=20
+3	congratulate	congratulate	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=21|end_char=33
+4	all	all	DET	DT	_	3	obj	_	start_char=34|end_char=37
+5	of	of	ADP	IN	_	6	case	_	start_char=38|end_char=40
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	nmod	_	start_char=41|end_char=44
+7	on	on	ADP	IN	_	10	case	_	start_char=45|end_char=47
+8	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	start_char=48|end_char=52
+9	important	important	ADJ	JJ	Degree=Pos	10	amod	_	start_char=53|end_char=62
+10	program	program	NOUN	NN	Number=Sing	3	obl	_	start_char=63|end_char=70
+11	of	of	ADP	IN	_	17	case	_	start_char=71|end_char=73
+12	Sri	Sri	PROPN	NNP	Number=Sing	17	nmod:poss	_	start_char=74|end_char=77
+13	Aurobindo	Aurobindo	PROPN	NNP	Number=Sing	12	flat	_	start_char=78|end_char=87
+14	’s	's	PART	POS	_	13	case	_	start_char=87|end_char=89
+15	150th	150th	ADJ	JJ	Degree=Pos|NumType=Ord	17	amod	_	start_char=90|end_char=95
+16	birth	birth	NOUN	NN	Number=Sing	17	compound	_	start_char=96|end_char=101
+17	anniversary	anniversary	NOUN	NN	Number=Sing	10	nmod	_	start_char=102|end_char=113
+18	.	.	PUNCT	.	_	3	punct	_	start_char=113|end_char=114
+
+# text = I also extend my best wishes to all the countrymen on this auspicious occasion.
+# sent_id = 2
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=115|end_char=116
+2	also	also	ADV	RB	_	3	advmod	_	start_char=117|end_char=121
+3	extend	extend	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=122|end_char=128
+4	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	start_char=129|end_char=131
+5	best	good	ADJ	JJS	Degree=Sup	6	amod	_	start_char=132|end_char=136
+6	wishes	wish	NOUN	NNS	Number=Plur	3	obj	_	start_char=137|end_char=143
+7	to	to	ADP	IN	_	10	case	_	start_char=144|end_char=146
+8	all	all	DET	PDT	_	10	det	_	start_char=147|end_char=150
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=151|end_char=154
+10	countrymen	countryman	NOUN	NNS	Number=Plur	3	obl	_	start_char=155|end_char=165
+11	on	on	ADP	IN	_	14	case	_	start_char=166|end_char=168
+12	this	this	DET	DT	Number=Sing|PronType=Dem	14	det	_	start_char=169|end_char=173
+13	auspicious	auspicious	ADJ	JJ	Degree=Pos	14	amod	_	start_char=174|end_char=184
+14	occasion	occasion	NOUN	NN	Number=Sing	3	obl	_	start_char=185|end_char=193
+15	.	.	PUNCT	.	_	3	punct	_	start_char=193|end_char=194
+
+# text = Sri Aurobindo’s 150th birth anniversary is a historic occasion for the entire country.
+# sent_id = 3
+1	Sri	Sri	PROPN	NNP	Number=Sing	6	nmod:poss	_	start_char=195|end_char=198
+2	Aurobindo	Aurobindo	PROPN	NNP	Number=Sing	1	flat	_	start_char=199|end_char=208
+3	’s	's	PART	POS	_	2	case	_	start_char=208|end_char=210
+4	150th	150th	ADJ	JJ	Degree=Pos|NumType=Ord	6	amod	_	start_char=211|end_char=216
+5	birth	birth	NOUN	NN	Number=Sing	6	compound	_	start_char=217|end_char=222
+6	anniversary	anniversary	NOUN	NN	Number=Sing	10	nsubj	_	start_char=223|end_char=234
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	start_char=235|end_char=237
+8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	start_char=238|end_char=239
+9	historic	historic	ADJ	JJ	Degree=Pos	10	amod	_	start_char=240|end_char=248
+10	occasion	occasion	NOUN	NN	Number=Sing	0	root	_	start_char=249|end_char=257
+11	for	for	ADP	IN	_	14	case	_	start_char=258|end_char=261
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=262|end_char=265
+13	entire	entire	ADJ	JJ	Degree=Pos	14	amod	_	start_char=266|end_char=272
+14	country	country	NOUN	NN	Number=Sing	10	nmod	_	start_char=273|end_char=280
+15	.	.	PUNCT	.	_	10	punct	_	start_char=280|end_char=281
+
+# text = Several programs are also being organized under the aegis of the Ministry of Culture.
+# sent_id = 6
+1	Several	several	ADJ	JJ	Degree=Pos	2	amod	_	start_char=478|end_char=485
+2	programs	program	NOUN	NNS	Number=Plur	6	nsubj:pass	_	start_char=486|end_char=494
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	start_char=495|end_char=498
+4	also	also	ADV	RB	_	6	advmod	_	start_char=499|end_char=503
+5	being	be	AUX	VBG	VerbForm=Ger	6	aux:pass	_	start_char=504|end_char=509
+6	organized	organize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=510|end_char=519
+7	under	under	ADP	IN	_	9	case	_	start_char=520|end_char=525
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=526|end_char=529
+9	aegis	aegis	NOUN	NN	Number=Sing	6	obl	_	start_char=530|end_char=535
+10	of	of	ADP	IN	_	12	case	_	start_char=536|end_char=538
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	start_char=539|end_char=542
+12	Ministry	Ministry	PROPN	NNP	Number=Sing	9	nmod	_	start_char=543|end_char=551
+13	of	of	ADP	IN	_	14	case	_	start_char=552|end_char=554
+14	Culture	Culture	PROPN	NNP	Number=Sing	12	nmod	_	start_char=555|end_char=562
+15	.	.	PUNCT	.	_	6	punct	_	start_char=562|end_char=563
+
+# text = Today a commemorative coin and postal stamp on Sri Aurobindo has also been released.
+# sent_id = 8
+1	Today	today	NOUN	NN	Number=Sing	14	obl	_	start_char=699|end_char=704
+2	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	start_char=705|end_char=706
+3	commemorative	commemorative	ADJ	JJ	Degree=Pos	4	amod	_	start_char=707|end_char=720
+4	coin	coin	NOUN	NN	Number=Sing	14	nsubj:pass	_	start_char=721|end_char=725
+5	and	and	CCONJ	CC	_	7	cc	_	start_char=726|end_char=729
+6	postal	postal	ADJ	JJ	Degree=Pos	7	amod	_	start_char=730|end_char=736
+7	stamp	stamp	NOUN	NN	Number=Sing	4	conj	_	start_char=737|end_char=742
+8	on	on	ADP	IN	_	10	case	_	start_char=743|end_char=745
+9	Sri	Sri	PROPN	NNP	Number=Sing	7	nmod	_	start_char=746|end_char=749
+10	Aurobindo	Aurobindo	PROPN	NNP	Number=Sing	9	flat	_	start_char=750|end_char=759
+11	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	start_char=760|end_char=763
+12	also	also	ADV	RB	_	14	advmod	_	start_char=764|end_char=768
+13	been	be	AUX	VBN	Tense=Past|VerbForm=Part	14	aux:pass	_	start_char=769|end_char=773
+14	released	release	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=774|end_char=782
+15	.	.	PUNCT	.	_	14	punct	_	start_char=782|end_char=783
+
+# text = Several amazing events happen simultaneously in the same period several times during history.
+# sent_id = 11
+1	Several	several	ADJ	JJ	Degree=Pos	3	amod	_	start_char=953|end_char=960
+2	amazing	amazing	ADJ	JJ	Degree=Pos	3	amod	_	start_char=961|end_char=968
+3	events	event	NOUN	NNS	Number=Plur	4	nsubj	_	start_char=969|end_char=975
+4	happen	happen	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=976|end_char=982
+5	simultaneously	simultaneously	ADV	RB	_	4	advmod	_	start_char=983|end_char=997
+6	in	in	ADP	IN	_	9	case	_	start_char=998|end_char=1000
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	start_char=1001|end_char=1004
+8	same	same	ADJ	JJ	Degree=Pos	9	amod	_	start_char=1005|end_char=1009
+9	period	period	NOUN	NN	Number=Sing	4	obl	_	start_char=1010|end_char=1016
+10	several	several	ADJ	JJ	Degree=Pos	11	amod	_	start_char=1017|end_char=1024
+11	times	time	NOUN	NNS	Number=Plur	4	obl	_	start_char=1025|end_char=1030
+12	during	during	ADP	IN	_	13	case	_	start_char=1031|end_char=1037
+13	history	history	NOUN	NN	Number=Sing	4	obl	_	start_char=1038|end_char=1045
+14	.	.	PUNCT	.	_	4	punct	_	start_char=1045|end_char=1046
+
+# text = But, these are generally considered to be just a coincidence.
+# sent_id = 12
+1	But	but	CCONJ	CC	_	6	cc	_	start_char=1047|end_char=1050
+2	,	,	PUNCT	,	_	6	punct	_	start_char=1050|end_char=1051
+3	these	this	PRON	DT	Number=Plur|PronType=Dem	6	nsubj:pass	_	start_char=1052|end_char=1057
+4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=1058|end_char=1061
+5	generally	generally	ADV	RB	_	6	advmod	_	start_char=1062|end_char=1071
+6	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=1072|end_char=1082
+7	to	to	PART	TO	_	11	mark	_	start_char=1083|end_char=1085
+8	be	be	AUX	VB	VerbForm=Inf	11	cop	_	start_char=1086|end_char=1088
+9	just	just	ADV	RB	_	11	advmod	_	start_char=1089|end_char=1093
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=1094|end_char=1095
+11	coincidence	coincidence	NOUN	NN	Number=Sing	6	xcomp	_	start_char=1096|end_char=1107
+12	.	.	PUNCT	.	_	6	punct	_	start_char=1107|end_char=1108
+
+# text = I believe there is some ‘Yoga Shakti’ behind such coincidences.
+# sent_id = 13
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	start_char=1109|end_char=1110
+2	believe	believe	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1111|end_char=1118
+3	there	there	PRON	EX	_	4	expl	_	start_char=1119|end_char=1124
+4	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	start_char=1125|end_char=1127
+5	some	some	DET	DT	_	8	det	_	start_char=1128|end_char=1132
+6	‘	'	PUNCT	``	_	8	punct	_	start_char=1133|end_char=1134
+7	Yoga	yoga	NOUN	NN	Number=Sing	8	compound	_	start_char=1134|end_char=1138
+8	Shakti	Shakti	PROPN	NNP	Number=Sing	4	nsubj	_	start_char=1139|end_char=1145
+9	’	'	PUNCT	''	_	8	punct	_	start_char=1145|end_char=1146
+10	behind	behind	ADP	IN	_	12	case	_	start_char=1147|end_char=1153
+11	such	such	ADJ	JJ	Degree=Pos	12	amod	_	start_char=1154|end_char=1158
+12	coincidences	coincidence	NOUN	NNS	Number=Plur	4	obl	_	start_char=1159|end_char=1171
+13	.	.	PUNCT	.	_	2	punct	_	start_char=1171|end_char=1172
+
+# text = ‘Yoga Shakti’ means a collective power, a power that unites all!
+# sent_id = 14
+1	‘	'	PUNCT	``	_	3	punct	_	start_char=1173|end_char=1174
+2	Yoga	yoga	NOUN	NN	Number=Sing	3	compound	_	start_char=1174|end_char=1178
+3	Shakti	Shakti	PROPN	NNP	Number=Sing	5	nsubj	_	start_char=1179|end_char=1185
+4	’	'	PUNCT	''	_	3	punct	_	start_char=1185|end_char=1186
+5	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=1187|end_char=1192
+6	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=1193|end_char=1194
+7	collective	collective	ADJ	JJ	Degree=Pos	8	amod	_	start_char=1195|end_char=1205
+8	power	power	NOUN	NN	Number=Sing	5	obj	_	start_char=1206|end_char=1211
+9	,	,	PUNCT	,	_	8	punct	_	start_char=1211|end_char=1212
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	start_char=1213|end_char=1214
+11	power	power	NOUN	NN	Number=Sing	8	appos	_	start_char=1215|end_char=1220
+12	that	that	PRON	WDT	PronType=Rel	13	nsubj	_	start_char=1221|end_char=1225
+13	unites	unite	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	start_char=1226|end_char=1232
+14	all	all	DET	DT	_	13	obj	_	start_char=1233|end_char=1236
+15	!	!	PUNCT	.	_	5	punct	_	start_char=1236|end_char=1237
+
+# text = These incidents changed the lives of these great men and also brought major changes in the nation.
+# sent_id = 17
+1	These	this	DET	DT	Number=Plur|PronType=Dem	2	det	_	start_char=1532|end_char=1537
+2	incidents	incident	NOUN	NNS	Number=Plur	3	nsubj	_	start_char=1538|end_char=1547
+3	changed	change	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=1548|end_char=1555
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=1556|end_char=1559
+5	lives	life	NOUN	NNS	Number=Plur	3	obj	_	start_char=1560|end_char=1565
+6	of	of	ADP	IN	_	9	case	_	start_char=1566|end_char=1568
+7	these	this	DET	DT	Number=Plur|PronType=Dem	9	det	_	start_char=1569|end_char=1574
+8	great	great	ADJ	JJ	Degree=Pos	9	amod	_	start_char=1575|end_char=1580
+9	men	man	NOUN	NNS	Number=Plur	5	nmod	_	start_char=1581|end_char=1584
+10	and	and	CCONJ	CC	_	12	cc	_	start_char=1585|end_char=1588
+11	also	also	ADV	RB	_	12	advmod	_	start_char=1589|end_char=1593
+12	brought	bring	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	start_char=1594|end_char=1601
+13	major	major	ADJ	JJ	Degree=Pos	14	amod	_	start_char=1602|end_char=1607
+14	changes	change	NOUN	NNS	Number=Plur	12	obj	_	start_char=1608|end_char=1615
+15	in	in	ADP	IN	_	17	case	_	start_char=1616|end_char=1618
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	start_char=1619|end_char=1622
+17	nation	nation	NOUN	NN	Number=Sing	12	obl	_	start_char=1623|end_char=1629
+18	.	.	PUNCT	.	_	3	punct	_	start_char=1629|end_char=1630
+
+# text = Sri Aurobindo returned to India from England in 1893 after 14 years.
+# sent_id = 18
+1	Sri	Sri	PROPN	NNP	Number=Sing	3	nsubj	_	start_char=1631|end_char=1634
+2	Aurobindo	Aurobindo	PROPN	NNP	Number=Sing	1	flat	_	start_char=1635|end_char=1644
+3	returned	return	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=1645|end_char=1653
+4	to	to	ADP	IN	_	5	case	_	start_char=1654|end_char=1656
+5	India	India	PROPN	NNP	Number=Sing	3	obl	_	start_char=1657|end_char=1662
+6	from	from	ADP	IN	_	7	case	_	start_char=1663|end_char=1667
+7	England	England	PROPN	NNP	Number=Sing	3	obl	_	start_char=1668|end_char=1675
+8	in	in	ADP	IN	_	9	case	_	start_char=1676|end_char=1678
+9	1893	1893	NUM	CD	NumForm=Digit|NumType=Card	3	obl	_	start_char=1679|end_char=1683
+10	after	after	ADP	IN	_	12	case	_	start_char=1684|end_char=1689
+11	14	14	NUM	CD	NumForm=Digit|NumType=Card	12	nummod	_	start_char=1690|end_char=1692
+12	years	year	NOUN	NNS	Number=Plur	3	obl	_	start_char=1693|end_char=1698
+13	.	.	PUNCT	.	_	3	punct	_	start_char=1698|end_char=1699
+
+# text = Brothers and sisters, Today, once again our India is witnessing many such coincidences simultaneously.
+# sent_id = 21
+1	Brothers	Brother	NOUN	NNS	Number=Plur	12	vocative	_	start_char=1981|end_char=1989
+2	and	and	CCONJ	CC	_	3	cc	_	start_char=1990|end_char=1993
+3	sisters	sister	NOUN	NNS	Number=Plur	1	conj	_	start_char=1994|end_char=2001
+4	,	,	PUNCT	,	_	12	punct	_	start_char=2001|end_char=2002
+5	Today	today	NOUN	NN	Number=Sing	12	obl	_	start_char=2003|end_char=2008
+6	,	,	PUNCT	,	_	12	punct	_	start_char=2008|end_char=2009
+7	once	once	ADV	RB	NumType=Mult	8	advmod	_	start_char=2010|end_char=2014
+8	again	again	ADV	RB	_	\\\	advmod	_	start_char=2015|end_char=2020
+9	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	start_char=2021|end_char=2024
+10	India	India	PROPN	NNP	Number=Sing	12	nsubj	_	start_char=2025|end_char=2030
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	start_char=2031|end_char=2033
+12	witnessing	witness	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=2034|end_char=2044
+13	many	many	ADJ	JJ	Degree=Pos	15	amod	_	start_char=2045|end_char=2049
+14	such	such	ADJ	JJ	Degree=Pos	15	amod	_	start_char=2050|end_char=2054
+15	coincidences	coincidence	NOUN	NNS	Number=Plur	12	obj	_	start_char=2055|end_char=2067
+16	simultaneously	simultaneously	ADV	RB	_	12	advmod	_	start_char=2068|end_char=2082
+17	.	.	PUNCT	.	_	12	punct	_	start_char=2082|end_char=2083
+
+# text = In this period, we have been witness to occasions like the 125th birth anniversary of Netaji Subhas Chandra Bose.
+# sent_id = 23
+1	In	in	ADP	IN	_	3	case	_	start_char=2277|end_char=2279
+2	this	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	start_char=2280|end_char=2284
+3	period	period	NOUN	NN	Number=Sing	8	obl	_	start_char=2285|end_char=2291
+4	,	,	PUNCT	,	_	3	punct	_	start_char=2291|end_char=2292
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	start_char=2293|end_char=2295
+6	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	start_char=2296|end_char=2300
+7	been	be	AUX	VBN	Tense=Past|VerbForm=Part	8	cop	_	start_char=2301|end_char=2305
+8	witness	witness	NOUN	NN	Number=Sing	0	root	_	start_char=2306|end_char=2313
+9	to	to	ADP	IN	_	10	case	_	start_char=2314|end_char=2316
+10	occasions	occasion	NOUN	NNS	Number=Plur	8	obl	_	start_char=2317|end_char=2326
+11	like	like	ADP	IN	_	15	case	_	start_char=2327|end_char=2331
+12	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=2332|end_char=2335
+13	125th	125th	ADJ	JJ	Degree=Pos|NumType=Ord	15	amod	_	start_char=2336|end_char=2341
+14	birth	birth	NOUN	NN	Number=Sing	15	compound	_	start_char=2342|end_char=2347
+15	anniversary	anniversary	NOUN	NN	Number=Sing	10	nmod	_	start_char=2348|end_char=2359
+16	of	of	ADP	IN	_	18	case	_	start_char=2360|end_char=2362
+17	Netaji	Netaji	PROPN	NNP	Number=Sing	15	nmod	_	start_char=2363|end_char=2369
+18	Subhas	Subhas	PROPN	NNP	Number=Sing	17	flat	_	start_char=2370|end_char=2376
+19	Chandra	Chandra	PROPN	NNP	Number=Sing	17	flat	_	start_char=2377|end_char=2384
+20	Bose	Bose	PROPN	NNP	Number=Sing	17	flat	_	start_char=2385|end_char=2389
+21	.	.	PUNCT	.	_	8	punct	_	start_char=2389|end_char=2390
+
+# text = When motivation and action are combined, even seemingly impossible goals are inevitably accomplished.
+# sent_id = 24
+1	When	when	SCONJ	WRB	PronType=Int	6	mark	_	start_char=2391|end_char=2395
+2	motivation	motivation	NOUN	NN	Number=Sing	6	nsubj:pass	_	start_char=2396|end_char=2406
+3	and	and	CCONJ	CC	_	4	cc	_	start_char=2407|end_char=2410
+4	action	action	NOUN	NN	Number=Sing	2	conj	_	start_char=2411|end_char=2417
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	start_char=2418|end_char=2421
+6	combined	combine	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	advcl	_	start_char=2422|end_char=2430
+7	,	,	PUNCT	,	_	14	punct	_	start_char=2430|end_char=2431
+8	even	even	ADV	RB	_	10	advmod	_	start_char=2432|end_char=2436
+9	seemingly	seemingly	ADV	RB	_	10	advmod	_	start_char=2437|end_char=2446
+10	impossible	impossible	ADJ	JJ	Degree=Pos	11	amod	_	start_char=2447|end_char=2457
+11	goals	goal	NOUN	NNS	Number=Plur	14	nsubj:pass	_	start_char=2458|end_char=2463
+12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	start_char=2464|end_char=2467
+13	inevitably	inevitably	ADV	RB	_	14	advmod	_	start_char=2468|end_char=2478
+14	accomplished	accomplish	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=2479|end_char=2491
+15	.	.	PUNCT	.	_	14	punct	_	start_char=2491|end_char=2492
+
+# text = The life of Sri Aurobindo is a reflection of ‘Ek Bharat Shreshtha Bharat’.
+# sent_id = 27
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	start_char=2634|end_char=2637
+2	life	life	NOUN	NN	Number=Sing	8	nsubj	_	start_char=2638|end_char=2642
+3	of	of	ADP	IN	_	5	case	_	start_char=2643|end_char=2645
+4	Sri	Sri	PROPN	NNP	Number=Sing	2	nmod	_	start_char=2646|end_char=2649
+5	Aurobindo	Aurobindo	PROPN	NNP	Number=Sing	4	flat	_	start_char=2650|end_char=2659
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=2660|end_char=2662
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	start_char=2663|end_char=2664
+8	reflection	reflection	NOUN	NN	Number=Sing	0	root	_	start_char=2665|end_char=2675
+9	of	of	ADP	IN	_	14	case	_	start_char=2676|end_char=2678
+10	‘	'	PUNCT	``	_	14	punct	_	start_char=2679|end_char=2680
+11	Ek	Ek	PROPN	NNP	Number=Sing	14	compound	_	start_char=2680|end_char=2682
+12	Bharat	Bharat	PROPN	NNP	Number=Sing	14	compound	_	start_char=2683|end_char=2689
+13	Shreshtha	Shreshtha	PROPN	NNP	Number=Sing	14	compound	_	start_char=2690|end_char=2699
+14	Bharat	Bharat	PROPN	NNP	Number=Sing	8	nmod	_	start_char=2700|end_char=2706
+15	’	'	PUNCT	''	_	14	punct	_	start_char=2706|end_char=2707
+16	.	.	PUNCT	.	_	8	punct	_	start_char=2707|end_char=2708
+
+# text = Although he was born in Bengal, he spent most of his life in Gujarat and Puducherry.
+# sent_id = 29
+1	Although	although	SCONJ	IN	_	4	mark	_	start_char=2829|end_char=2837
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	start_char=2838|end_char=2840
+3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	start_char=2841|end_char=2844
+4	born	bear	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	advcl	_	start_char=2845|end_char=2849
+5	in	in	ADP	IN	_	6	case	_	start_char=2850|end_char=2852
+6	Bengal	Bengal	PROPN	NNP	Number=Sing	4	obl	_	start_char=2853|end_char=2859
+7	,	,	PUNCT	,	_	4	punct	_	start_char=2859|end_char=2860
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	start_char=2861|end_char=2863
+9	spent	spend	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=2864|end_char=2869
+10	most	most	ADJ	JJS	Degree=Sup	9	obj	_	start_char=2870|end_char=2874
+11	of	of	ADP	IN	_	13	case	_	start_char=2875|end_char=2877
+12	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	start_char=2878|end_char=2881
+13	life	life	NOUN	NN	Number=Sing	10	obl	_	start_char=2882|end_char=2886
+14	in	in	ADP	IN	_	15	case	_	start_char=2887|end_char=2889
+15	Gujarat	Gujarat	PROPN	NNP	Number=Sing	9	obl	_	start_char=2890|end_char=2897
+16	and	and	CCONJ	CC	_	17	cc	_	start_char=2898|end_char=2901
+17	Puducherry	Puducherry	PROPN	NNP	Number=Sing	15	conj	_	start_char=2902|end_char=2912
+18	.	.	PUNCT	.	_	9	punct	_	start_char=2912|end_char=2913
+
+# text = Wherever he went, he left a deep impression of his personality.
+# sent_id = 30
+1	Wherever	wherever	SCONJ	WRB	PronType=Int	3	mark	_	start_char=2914|end_char=2922
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=2923|end_char=2925
+3	went	go	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	advcl	_	start_char=2926|end_char=2930
+4	,	,	PUNCT	,	_	6	punct	_	start_char=2930|end_char=2931
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	start_char=2932|end_char=2934
+6	left	leave	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=2935|end_char=2939
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	start_char=2940|end_char=2941
+8	deep	deep	ADJ	JJ	Degree=Pos	9	amod	_	start_char=2942|end_char=2946
+9	impression	impression	NOUN	NN	Number=Sing	6	obj	_	start_char=2947|end_char=2957
+10	of	of	ADP	IN	_	12	case	_	start_char=2958|end_char=2960
+11	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	start_char=2961|end_char=2964
+12	personality	personality	NOUN	NN	Number=Sing	9	nmod	_	start_char=2965|end_char=2976
+13	.	.	PUNCT	.	_	6	punct	_	start_char=2976|end_char=2977
+
+# text = This is a great inspiration for the ‘Amrit Kaal’ of independence.
+# sent_id = 34
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	start_char=3270|end_char=3274
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	start_char=3275|end_char=3277
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	start_char=3278|end_char=3279
+4	great	great	ADJ	JJ	Degree=Pos	5	amod	_	start_char=3280|end_char=3285
+5	inspiration	inspiration	NOUN	NN	Number=Sing	0	root	_	start_char=3286|end_char=3297
+6	for	for	ADP	IN	_	10	case	_	start_char=3298|end_char=3301
+7	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=3302|end_char=3305
+8	‘	'	PUNCT	``	_	10	punct	_	start_char=3306|end_char=3307
+9	Amrit	Amrit	PROPN	NNP	Number=Sing	10	compound	_	start_char=3307|end_char=3312
+10	Kaal	Kaal	PROPN	NNP	Number=Sing	5	nmod	_	start_char=3313|end_char=3317
+11	’	'	PUNCT	''	_	10	punct	_	start_char=3317|end_char=3318
+12	of	of	ADP	IN	_	13	case	_	start_char=3319|end_char=3321
+13	independence	independence	NOUN	NN	Number=Sing	10	nmod	_	start_char=3322|end_char=3334
+14	.	.	PUNCT	.	_	5	punct	_	start_char=3334|end_char=3335
+
+# text = What can be a better encouragement for ‘Ek Bharat Shreshtha Bharat’?
+# sent_id = 35
+1	What	what	PRON	WP	PronType=Int	6	nsubj	_	start_char=3336|end_char=3340
+2	can	can	AUX	MD	VerbForm=Fin	6	aux	_	start_char=3341|end_char=3344
+3	be	be	AUX	VB	VerbForm=Inf	6	cop	_	start_char=3345|end_char=3347
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	start_char=3348|end_char=3349
+5	better	good	ADJ	JJR	Degree=Cmp	6	amod	_	start_char=3350|end_char=3356
+6	encouragement	encouragement	NOUN	NN	Number=Sing	0	root	_	start_char=3357|end_char=3370
+7	for	for	ADP	IN	_	12	case	_	start_char=3371|end_char=3374
+8	‘	'	PUNCT	``	_	12	punct	_	start_char=3375|end_char=3376
+9	Ek	Ek	PROPN	NNP	Number=Sing	12	compound	_	start_char=3376|end_char=3378
+10	Bharat	Bharat	PROPN	NNP	Number=Sing	12	compound	_	start_char=3379|end_char=3385
+11	Shreshtha	Shreshtha	PROPN	NNP	Number=Sing	12	compound	_	start_char=3386|end_char=3395
+12	Bharat	Bharat	PROPN	NNP	Number=Sing	6	nmod	_	start_char=3396|end_char=3402
+13	’	'	PUNCT	''	_	12	punct	_	start_char=3402|end_char=3403
+14	?	?	PUNCT	.	_	6	punct	_	start_char=3403|end_char=3404
+
+# text = I was privileged to be a part of the Kasi-Tamil Sangamam program there.
+# sent_id = 38
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	start_char=3439|end_char=3440
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	start_char=3441|end_char=3444
+3	privileged	privileged	ADJ	JJ	Degree=Pos	0	root	_	start_char=3445|end_char=3455
+4	to	to	PART	TO	_	7	mark	_	start_char=3456|end_char=3458
+5	be	be	AUX	VB	VerbForm=Inf	7	cop	_	start_char=3459|end_char=3461
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	start_char=3462|end_char=3463
+7	part	part	NOUN	NN	Number=Sing	3	xcomp	_	start_char=3464|end_char=3468
+8	of	of	ADP	IN	_	14	case	_	start_char=3469|end_char=3471
+9	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	start_char=3472|end_char=3475
+10	Kasi	Kasi	PROPN	NNP	Number=Sing	12	compound	_	start_char=3476|end_char=3480
+11	-	-	PUNCT	HYPH	_	10	punct	_	start_char=3480|end_char=3481
+12	Tamil	Tamil	ADJ	NNP	Degree=Pos	13	amod	_	start_char=3481|end_char=3486
+13	Sangamam	Sangamam	PROPN	NNP	Number=Sing	14	compound	_	start_char=3487|end_char=3495
+14	program	program	NOUN	NN	Number=Sing	7	nmod	_	start_char=3496|end_char=3503
+15	there	there	ADV	RB	PronType=Dem	14	advmod	_	start_char=3504|end_char=3509
+16	.	.	PUNCT	.	_	3	punct	_	start_char=3509|end_char=3510
+
+# text = We got to see in that festival how India is imperishable and steadfast through its tradition and culture.
+# sent_id = 40
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	start_char=3538|end_char=3540
+2	got	get	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	start_char=3541|end_char=3544
+3	to	to	PART	TO	_	4	mark	_	start_char=3545|end_char=3547
+4	see	see	VERB	VB	VerbForm=Inf	2	xcomp	_	start_char=3548|end_char=3551
+5	in	in	ADP	IN	_	7	case	_	start_char=3552|end_char=3554
+6	that	that	DET	DT	Number=Sing|PronType=Dem	7	det	_	start_char=3555|end_char=3559
+7	festival	festival	NOUN	NN	Number=Sing	4	obl	_	start_char=3560|end_char=3568
+8	how	how	SCONJ	WRB	PronType=Int	11	mark	_	start_char=3569|end_char=3572
+9	India	India	PROPN	NNP	Number=Sing	11	nsubj	_	start_char=3573|end_char=3578
+10	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	start_char=3579|end_char=3581
+11	imperishable	imperishable	ADJ	JJ	Degree=Pos	4	ccomp	_	start_char=3582|end_char=3594
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=3595|end_char=3598
+13	steadfast	steadfast	ADJ	JJ	Degree=Pos	11	conj	_	start_char=3599|end_char=3608
+14	through	through	ADP	IN	_	16	case	_	start_char=3609|end_char=3616
+15	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	start_char=3617|end_char=3620
+16	tradition	tradition	NOUN	NN	Number=Sing	11	obl	_	start_char=3621|end_char=3630
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=3631|end_char=3634
+18	culture	culture	NOUN	NN	Number=Sing	16	conj	_	start_char=3635|end_char=3642
+19	.	.	PUNCT	.	_	2	punct	_	start_char=3642|end_char=3643
+
+# text = It was seen in Kashi-Tamil Sangamam what today’s youth thinks.
+# sent_id = 41
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	start_char=3644|end_char=3646
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	start_char=3647|end_char=3650
+3	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	start_char=3651|end_char=3655
+4	in	in	ADP	IN	_	8	case	_	start_char=3656|end_char=3658
+5	Kashi	Kashi	PROPN	NNP	Number=Sing	3	obl	_	start_char=3659|end_char=3664
+6	-	-	PUNCT	HYPH	_	7	punct	_	start_char=3664|end_char=3665
+7	Tamil	Tamil	ADJ	NNP	Degree=Pos	8	amod	_	start_char=3665|end_char=3670
+8	Sangamam	Sangamam	PROPN	NNP	Number=Sing	3	obl	_	start_char=3671|end_char=3679
+9	what	what	PRON	WP	PronType=Int	13	obj	_	start_char=3680|end_char=3684
+10	today	today	NOUN	NN	Number=Sing	12	nmod	_	start_char=3685|end_char=3690
+11	’s	's	PART	POS	_	10	case	_	start_char=3690|end_char=3692
+12	youth	youth	NOUN	NN	Number=Sing	13	nsubj	_	start_char=3693|end_char=3698
+13	thinks	think	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	start_char=3699|end_char=3705
+14	.	.	PUNCT	.	_	3	punct	_	start_char=3705|end_char=3706
+
+# text = But, when the same Aurobindo returns to the country, he becomes the hero of resistance to British rule.
+# sent_id = 50
+1	But	but	CCONJ	CC	_	13	cc	_	start_char=4509|end_char=4512
+2	,	,	PUNCT	,	_	13	punct	_	start_char=4512|end_char=4513
+3	when	when	SCONJ	WRB	PronType=Int	7	mark	_	start_char=4514|end_char=4518
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=4519|end_char=4522
+5	same	same	ADJ	JJ	Degree=Pos	6	amod	_	start_char=4523|end_char=4527
+6	Aurobindo	Aurobindo	PROPN	NNP	Number=Sing	7	nsubj	_	start_char=4528|end_char=4537
+7	returns	return	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	start_char=4538|end_char=4545
+8	to	to	ADP	IN	_	10	case	_	start_char=4546|end_char=4548
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=4549|end_char=4552
+10	country	country	NOUN	NN	Number=Sing	7	obl	_	start_char=4553|end_char=4560
+11	,	,	PUNCT	,	_	7	punct	_	start_char=4560|end_char=4561
+12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	start_char=4562|end_char=4564
+13	becomes	become	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	start_char=4565|end_char=4572
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=4573|end_char=4576
+15	hero	hero	NOUN	NN	Number=Sing	13	xcomp	_	start_char=4577|end_char=4581
+16	of	of	ADP	IN	_	17	case	_	start_char=4582|end_char=4584
+17	resistance	resistance	NOUN	NN	Number=Sing	15	nmod	_	start_char=4585|end_char=4595
+18	to	to	ADP	IN	_	20	case	_	start_char=4596|end_char=4598
+19	British	British	ADJ	JJ	Degree=Pos	20	amod	_	start_char=4599|end_char=4606
+20	rule	rule	NOUN	NN	Number=Sing	17	nmod	_	start_char=4607|end_char=4611
+21	.	.	PUNCT	.	_	13	punct	_	start_char=4611|end_char=4612
+
+# text = He actively participated in the freedom struggle for the independence of the country.
+# sent_id = 51
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=4613|end_char=4615
+2	actively	actively	ADV	RB	_	3	advmod	_	start_char=4616|end_char=4624
+3	participated	participate	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=4625|end_char=4637
+4	in	in	ADP	IN	_	7	case	_	start_char=4638|end_char=4640
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=4641|end_char=4644
+6	freedom	freedom	NOUN	NN	Number=Sing	7	compound	_	start_char=4645|end_char=4652
+7	struggle	struggle	NOUN	NN	Number=Sing	3	obl	_	start_char=4653|end_char=4661
+8	for	for	ADP	IN	_	10	case	_	start_char=4662|end_char=4665
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	start_char=4666|end_char=4669
+10	independence	independence	NOUN	NN	Number=Sing	7	nmod	_	start_char=4670|end_char=4682
+11	of	of	ADP	IN	_	13	case	_	start_char=4683|end_char=4685
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	start_char=4686|end_char=4689
+13	country	country	NOUN	NN	Number=Sing	10	nmod	_	start_char=4690|end_char=4697
+14	.	.	PUNCT	.	_	3	punct	_	start_char=4697|end_char=4698
+
+# text = Aurobindo recruited the youth and gave the slogan – ‘No compromise’ during the partition of Bengal.
+# sent_id = 54
+1	Aurobindo	Aurobindo	PROPN	NNP	Number=Sing	2	nsubj	_	start_char=4968|end_char=4977
+2	recruited	recruit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=4978|end_char=4987
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	start_char=4988|end_char=4991
+4	youth	youth	NOUN	NN	Number=Sing	2	obj	_	start_char=4992|end_char=4997
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=4998|end_char=5001
+6	gave	give	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	start_char=5002|end_char=5006
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=5007|end_char=5010
+8	slogan	slogan	NOUN	NN	Number=Sing	6	obj	_	start_char=5011|end_char=5017
+9	–	-	PUNCT	:	_	12	punct	_	start_char=5018|end_char=5019
+10	‘	'	PUNCT	``	_	12	punct	_	start_char=5020|end_char=5021
+11	No	no	DET	DT	_	12	det	_	start_char=5021|end_char=5023
+12	compromise	compromise	NOUN	NN	Number=Sing	8	appos	_	start_char=5024|end_char=5034
+13	’	'	PUNCT	''	_	12	punct	_	start_char=5034|end_char=5035
+14	during	during	ADP	IN	_	16	case	_	start_char=5036|end_char=5042
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=5043|end_char=5046
+16	partition	partition	NOUN	NN	Number=Sing	6	obl	_	start_char=5047|end_char=5056
+17	of	of	ADP	IN	_	18	case	_	start_char=5057|end_char=5059
+18	Bengal	Bengal	PROPN	NNP	Number=Sing	16	nmod	_	start_char=5060|end_char=5066
+19	.	.	PUNCT	.	_	2	punct	_	start_char=5066|end_char=5067
+
+# text = He printed pamphlets named ‘Bhavani Mandir’ and made people surrounded by despair see the cultural nation.
+# sent_id = 55
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=5068|end_char=5070
+2	printed	print	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=5071|end_char=5078
+3	pamphlets	pamphlet	NOUN	NNS	Number=Plur	2	obj	_	start_char=5079|end_char=5088
+4	named	name	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	start_char=5089|end_char=5094
+5	‘	'	PUNCT	``	_	7	punct	_	start_char=5095|end_char=5096
+6	Bhavani	Bhavani	PROPN	NNP	Number=Sing	4	xcomp	_	start_char=5096|end_char=5103
+7	Mandir	Mandir	PROPN	NNP	Number=Sing	6	flat	_	start_char=5104|end_char=5110
+8	’	'	PUNCT	''	_	7	punct	_	start_char=5110|end_char=5111
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=5112|end_char=5115
+10	made	make	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	start_char=5116|end_char=5120
+11	people	people	NOUN	NNS	Number=Plur	10	obj	_	start_char=5121|end_char=5127
+12	surrounded	surround	VERB	VBN	Tense=Past|VerbForm=Part	11	acl	_	start_char=5128|end_char=5138
+13	by	by	ADP	IN	_	14	case	_	start_char=5139|end_char=5141
+14	despair	despair	NOUN	NN	Number=Sing	12	obl	_	start_char=5142|end_char=5149
+15	see	see	VERB	VB	VerbForm=Inf	12	advcl	_	start_char=5150|end_char=5153
+16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	start_char=5154|end_char=5157
+17	cultural	cultural	ADJ	JJ	Degree=Pos	18	amod	_	start_char=5158|end_char=5166
+18	nation	nation	NOUN	NN	Number=Sing	15	obj	_	start_char=5167|end_char=5173
+19	.	.	PUNCT	.	_	2	punct	_	start_char=5173|end_char=5174
+
+# text = Revolutionaries like Netaji Subhas drew inspiration from him regarding their resolutions.
+# sent_id = 58
+1	Revolutionaries	revolutionary	NOUN	NNS	Number=Plur	5	nsubj	_	start_char=5365|end_char=5380
+2	like	like	ADP	IN	_	4	case	_	start_char=5381|end_char=5385
+3	Netaji	Netaji	PROPN	NNP	Number=Sing	1	nmod	_	start_char=5386|end_char=5392
+4	Subhas	Subhas	PROPN	NNP	Number=Sing	3	flat	_	start_char=5393|end_char=5399
+5	drew	draw	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=5400|end_char=5404
+6	inspiration	inspiration	NOUN	NN	Number=Sing	5	obj	_	start_char=5405|end_char=5416
+7	from	from	ADP	IN	_	8	case	_	start_char=5417|end_char=5421
+8	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obl	_	start_char=5422|end_char=5425
+9	regarding	regard	VERB	VBG	VerbForm=Ger	11	case	_	start_char=5426|end_char=5435
+10	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=5436|end_char=5441
+11	resolutions	resolution	NOUN	NNS	Number=Plur	5	obl	_	start_char=5442|end_char=5453
+12	.	.	PUNCT	.	_	5	punct	_	start_char=5453|end_char=5454
+
+# text = He would discourse on serious topics like soul and God and explain ‘Brahma Tatva’ and Upanishads.
+# sent_id = 60
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	start_char=5594|end_char=5596
+2	would	would	AUX	MD	VerbForm=Fin	3	aux	_	start_char=5597|end_char=5602
+3	discourse	discourse	VERB	VB	VerbForm=Inf	0	root	_	start_char=5603|end_char=5612
+4	on	on	ADP	IN	_	6	case	_	start_char=5613|end_char=5615
+5	serious	serious	ADJ	JJ	Degree=Pos	6	amod	_	start_char=5616|end_char=5623
+6	topics	topic	NOUN	NNS	Number=Plur	3	obl	_	start_char=5624|end_char=5630
+7	like	like	ADP	IN	_	8	case	_	start_char=5631|end_char=5635
+8	soul	soul	NOUN	NN	Number=Sing	6	nmod	_	start_char=5636|end_char=5640
+9	and	and	CCONJ	CC	_	10	cc	_	start_char=5641|end_char=5644
+10	God	God	PROPN	NNP	Number=Sing	8	conj	_	start_char=5645|end_char=5648
+11	and	and	CCONJ	CC	_	12	cc	_	start_char=5649|end_char=5652
+12	explain	explain	VERB	VB	VerbForm=Inf	3	conj	_	start_char=5653|end_char=5660
+13	‘	'	PUNCT	``	_	15	punct	_	start_char=5661|end_char=5662
+14	Brahma	Brahma	PROPN	NNP	Number=Sing	15	compound	_	start_char=5662|end_char=5668
+15	Tatva	Tatva	PROPN	NNP	Number=Sing	12	obj	_	start_char=5669|end_char=5674
+16	’	'	PUNCT	''	_	15	punct	_	start_char=5674|end_char=5675
+17	and	and	CCONJ	CC	_	18	cc	_	start_char=5676|end_char=5679
+18	Upanishads	Upanishad	PROPN	NNPS	Number=Plur	15	conj	_	start_char=5680|end_char=5690
+19	.	.	PUNCT	.	_	3	punct	_	start_char=5690|end_char=5691
+
+# text = He added social service in the philosophy of soul and God.
+# sent_id = 61
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=5692|end_char=5694
+2	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=5695|end_char=5700
+3	social	social	ADJ	JJ	Degree=Pos	4	amod	_	start_char=5701|end_char=5707
+4	service	service	NOUN	NN	Number=Sing	2	obj	_	start_char=5708|end_char=5715
+5	in	in	ADP	IN	_	7	case	_	start_char=5716|end_char=5718
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=5719|end_char=5722
+7	philosophy	philosophy	NOUN	NN	Number=Sing	2	obl	_	start_char=5723|end_char=5733
+8	of	of	ADP	IN	_	9	case	_	start_char=5734|end_char=5736
+9	soul	soul	NOUN	NN	Number=Sing	7	nmod	_	start_char=5737|end_char=5741
+10	and	and	CCONJ	CC	_	11	cc	_	start_char=5742|end_char=5745
+11	God	God	PROPN	NNP	Number=Sing	9	conj	_	start_char=5746|end_char=5749
+12	.	.	PUNCT	.	_	2	punct	_	start_char=5749|end_char=5750
+
+# text = You can easily learn from the words of Sri Aurobindo how to connect with God.
+# sent_id = 62
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	start_char=5751|end_char=5754
+2	can	can	AUX	MD	VerbForm=Fin	4	aux	_	start_char=5755|end_char=5758
+3	easily	easily	ADV	RB	_	4	advmod	_	start_char=5759|end_char=5765
+4	learn	learn	VERB	VB	VerbForm=Inf	0	root	_	start_char=5766|end_char=5771
+5	from	from	ADP	IN	_	7	case	_	start_char=5772|end_char=5776
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=5777|end_char=5780
+7	words	word	NOUN	NNS	Number=Plur	4	obl	_	start_char=5781|end_char=5786
+8	of	of	ADP	IN	_	10	case	_	start_char=5787|end_char=5789
+9	Sri	Sri	PROPN	NNP	Number=Sing	7	nmod	_	start_char=5790|end_char=5793
+10	Aurobindo	Aurobindo	PROPN	NNP	Number=Sing	9	flat	_	start_char=5794|end_char=5803
+11	how	how	SCONJ	WRB	PronType=Int	13	mark	_	start_char=5804|end_char=5807
+12	to	to	PART	TO	_	13	mark	_	start_char=5808|end_char=5810
+13	connect	connect	VERB	VB	VerbForm=Inf	7	acl	_	start_char=5811|end_char=5818
+14	with	with	ADP	IN	_	15	case	_	start_char=5819|end_char=5823
+15	God	God	PROPN	NNP	Number=Sing	13	obl	_	start_char=5824|end_char=5827
+16	.	.	PUNCT	.	_	4	punct	_	start_char=5827|end_char=5828
+
+# text = Today we are accepting and adopting all modern ideas and best practices to make a developed India.
+# sent_id = 65
+1	Today	today	NOUN	NN	Number=Sing	4	obl:tmod	_	start_char=6223|end_char=6228
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	start_char=6229|end_char=6231
+3	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	start_char=6232|end_char=6235
+4	accepting	accept	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=6236|end_char=6245
+5	and	and	CCONJ	CC	_	6	cc	_	start_char=6246|end_char=6249
+6	adopting	adopt	VERB	VBG	VerbForm=Part	4	conj	_	start_char=6250|end_char=6258
+7	all	all	DET	DT	_	9	det	_	start_char=6259|end_char=6262
+8	modern	modern	ADJ	JJ	Degree=Pos	9	amod	_	start_char=6263|end_char=6269
+9	ideas	idea	NOUN	NNS	Number=Plur	6	obj	_	start_char=6270|end_char=6275
+10	and	and	CCONJ	CC	_	12	cc	_	start_char=6276|end_char=6279
+11	best	good	ADJ	JJS	Degree=Sup	12	amod	_	start_char=6280|end_char=6284
+12	practices	practice	NOUN	NNS	Number=Plur	9	conj	_	start_char=6285|end_char=6294
+13	to	to	PART	TO	_	14	mark	_	start_char=6295|end_char=6297
+14	make	make	VERB	VB	VerbForm=Inf	4	advcl	_	start_char=6298|end_char=6302
+15	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	start_char=6303|end_char=6304
+16	developed	develop	VERB	VBN	Tense=Past|VerbForm=Part	17	amod	_	start_char=6305|end_char=6314
+17	India	India	PROPN	NNP	Number=Sing	14	obj	_	start_char=6315|end_char=6320
+18	.	.	PUNCT	.	_	4	punct	_	start_char=6320|end_char=6321
+
+# text = We are working with the mantra of ‘India First’ without any compromise.
+# sent_id = 66
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	start_char=6322|end_char=6324
+2	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	start_char=6325|end_char=6328
+3	working	work	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=6329|end_char=6336
+4	with	with	ADP	IN	_	6	case	_	start_char=6337|end_char=6341
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	start_char=6342|end_char=6345
+6	mantra	mantra	NOUN	NN	Number=Sing	3	obl	_	start_char=6346|end_char=6352
+7	of	of	ADP	IN	_	10	case	_	start_char=6353|end_char=6355
+8	‘	'	PUNCT	``	_	9	punct	_	start_char=6356|end_char=6357
+9	India	India	PROPN	NNP	Number=Sing	6	nmod	_	start_char=6357|end_char=6362
+10	First	first	ADV	RB	NumType=Ord	9	flat	_	start_char=6363|end_char=6368
+11	’	'	PUNCT	''	_	10	punct	_	start_char=6368|end_char=6369
+12	without	without	ADP	IN	_	14	case	_	start_char=6370|end_char=6377
+13	any	any	DET	DT	_	14	det	_	start_char=6378|end_char=6381
+14	compromise	compromise	NOUN	NN	Number=Sing	3	obl	_	start_char=6382|end_char=6392
+15	.	.	PUNCT	.	_	3	punct	_	start_char=6392|end_char=6393
+
+# text = And at the same time, we are presenting our heritage and identity with pride before the entire world.
+# sent_id = 67
+1	And	and	CCONJ	CC	_	9	cc	_	start_char=6394|end_char=6397
+2	at	at	ADP	IN	_	5	case	_	start_char=6398|end_char=6400
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	start_char=6401|end_char=6404
+4	same	same	ADJ	JJ	Degree=Pos	5	amod	_	start_char=6405|end_char=6409
+5	time	time	NOUN	NN	Number=Sing	9	obl	_	start_char=6410|end_char=6414
+6	,	,	PUNCT	,	_	9	punct	_	start_char=6414|end_char=6415
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	start_char=6416|end_char=6418
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	start_char=6419|end_char=6422
+9	presenting	present	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=6423|end_char=6433
+10	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=6434|end_char=6437
+11	heritage	heritage	NOUN	NN	Number=Sing	9	obj	_	start_char=6438|end_char=6446
+12	and	and	CCONJ	CC	_	13	cc	_	start_char=6447|end_char=6450
+13	identity	identity	NOUN	NN	Number=Sing	11	conj	_	start_char=6451|end_char=6459
+14	with	with	ADP	IN	_	15	case	_	start_char=6460|end_char=6464
+15	pride	pride	NOUN	NN	Number=Sing	11	nmod	_	start_char=6465|end_char=6470
+16	before	before	ADP	IN	_	19	case	_	start_char=6471|end_char=6477
+17	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	start_char=6478|end_char=6481
+18	entire	entire	ADJ	JJ	Degree=Pos	19	amod	_	start_char=6482|end_char=6488
+19	world	world	NOUN	NN	Number=Sing	9	obl	_	start_char=6489|end_char=6494
+20	.	.	PUNCT	.	_	9	punct	_	start_char=6494|end_char=6495
+
+# text = He translated texts from Ramayana, Mahabharata and Upanishads to Kalidas, Bhavabhuti and Bharatthari.
+# sent_id = 74
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	start_char=7092|end_char=7094
+2	translated	translate	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=7095|end_char=7105
+3	texts	text	NOUN	NNS	Number=Plur	2	obj	_	start_char=7106|end_char=7111
+4	from	from	ADP	IN	_	5	case	_	start_char=7112|end_char=7116
+5	Ramayana	Ramayana	PROPN	NNP	Number=Sing	3	nmod	_	start_char=7117|end_char=7125
+6	,	,	PUNCT	,	_	7	punct	_	start_char=7125|end_char=7126
+7	Mahabharata	Mahabharata	PROPN	NNP	Number=Sing	5	conj	_	start_char=7127|end_char=7138
+8	and	and	CCONJ	CC	_	5	cc	_	start_char=7139|end_char=7142
+9	Upanishads	Upanishad	PROPN	NNPS	Number=Plur	5	conj	_	start_char=7143|end_char=7153
+10	to	to	ADP	IN	_	11	case	_	start_char=7154|end_char=7156
+11	Kalidas	Kalidas	PROPN	NNP	Number=Sing	3	nmod	_	start_char=7157|end_char=7164
+12	,	,	PUNCT	,	_	13	punct	_	start_char=7164|end_char=7165
+13	Bhavabhuti	Bhavabhuti	PROPN	NNP	Number=Sing	11	conj	_	start_char=7166|end_char=7176
+14	and	and	CCONJ	CC	_	11	cc	_	start_char=7177|end_char=7180
+15	Bharatthari	Bharatthari	PROPN	NNP	Number=Sing	11	conj	_	start_char=7181|end_char=7192
+16	.	.	PUNCT	.	_	2	punct	_	start_char=7192|end_char=7193
+
+# text = People started seeing India in the thoughts of Aurobindo who himself was kept away from Indianness in his youth.
+# sent_id = 75
+1	People	person	NOUN	NNS	Number=Plur	2	nsubj	_	start_char=7194|end_char=7200
+2	started	start	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=7201|end_char=7208
+3	seeing	see	VERB	VBG	VerbForm=Ger	2	xcomp	_	start_char=7209|end_char=7215
+4	India	India	PROPN	NNP	Number=Sing	3	obj	_	start_char=7216|end_char=7221
+5	in	in	ADP	IN	_	7	case	_	start_char=7222|end_char=7224
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	start_char=7225|end_char=7228
+7	thoughts	thought	NOUN	NNS	Number=Plur	3	obl	_	start_char=7229|end_char=7237
+8	of	of	ADP	IN	_	9	case	_	start_char=7238|end_char=7240
+9	Aurobindo	Aurobindo	PROPN	NNP	Number=Sing	7	nmod	_	start_char=7241|end_char=7250
+10	who	who	PRON	WP	PronType=Rel	13	nsubj:pass	_	start_char=7251|end_char=7254
+11	himself	himself	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Emp|Reflex=Yes	13	obl:npmod	_	start_char=7255|end_char=7262
+12	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux:pass	_	start_char=7263|end_char=7266
+13	kept	keep	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	acl:relcl	_	start_char=7267|end_char=7271
+14	away	away	ADV	RB	_	13	advmod	_	start_char=7272|end_char=7276
+15	from	from	ADP	IN	_	16	case	_	start_char=7277|end_char=7281
+16	Indianness	Indianness	PROPN	NNP	Number=Sing	13	obl	_	start_char=7282|end_char=7292
+17	in	in	ADP	IN	_	19	case	_	start_char=7293|end_char=7295
+18	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	_	start_char=7296|end_char=7299
+19	youth	youth	NOUN	NN	Number=Sing	13	obl	_	start_char=7300|end_char=7305
+20	.	.	PUNCT	.	_	2	punct	_	start_char=7305|end_char=7306
+
+# text = Because, India is the most refined idea of human civilization, the most natural voice of humanity.
+# sent_id = 78
+1	Because	because	SCONJ	IN	_	8	mark	_	start_char=7579|end_char=7586
+2	,	,	PUNCT	,	_	1	punct	_	start_char=7586|end_char=7587
+3	India	India	PROPN	NNP	Number=Sing	8	nsubj	_	start_char=7588|end_char=7593
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	start_char=7594|end_char=7596
+5	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	start_char=7597|end_char=7600
+6	most	most	ADV	RBS	Degree=Sup	7	advmod	_	start_char=7601|end_char=7605
+7	refined	refine	VERB	VBN	Tense=Past|VerbForm=Part	8	amod	_	start_char=7606|end_char=7613
+8	idea	idea	NOUN	NN	Number=Sing	0	root	_	start_char=7614|end_char=7618
+9	of	of	ADP	IN	_	11	case	_	start_char=7619|end_char=7621
+10	human	human	ADJ	JJ	Degree=Pos	11	amod	_	start_char=7622|end_char=7627
+11	civilization	civilization	NOUN	NN	Number=Sing	8	nmod	_	start_char=7628|end_char=7640
+12	,	,	PUNCT	,	_	16	punct	_	start_char=7640|end_char=7641
+13	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	start_char=7642|end_char=7645
+14	most	most	ADV	RBS	Degree=Sup	15	advmod	_	start_char=7646|end_char=7650
+15	natural	natural	ADJ	JJ	Degree=Pos	16	amod	_	start_char=7651|end_char=7658
+16	voice	voice	NOUN	NN	Number=Sing	11	appos	_	start_char=7659|end_char=7664
+17	of	of	ADP	IN	_	18	case	_	start_char=7665|end_char=7667
+18	humanity	humanity	NOUN	NN	Number=Sing	16	nmod	_	start_char=7668|end_char=7676
+19	.	.	PUNCT	.	_	8	punct	_	start_char=7676|end_char=7677
+
+# text = Today the youth of India is taking pride in its culture.
+# sent_id = 80
+1	Today	today	NOUN	NN	Number=Sing	7	obl	_	start_char=7800|end_char=7805
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	start_char=7806|end_char=7809
+3	youth	youth	NOUN	NN	Number=Sing	7	nsubj	_	start_char=7810|end_char=7815
+4	of	of	ADP	IN	_	5	case	_	start_char=7816|end_char=7818
+5	India	India	PROPN	NNP	Number=Sing	3	nmod	_	start_char=7819|end_char=7824
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	start_char=7825|end_char=7827
+7	taking	take	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	start_char=7828|end_char=7834
+8	pride	pride	NOUN	NN	Number=Sing	7	obj	_	start_char=7835|end_char=7840
+9	in	in	ADP	IN	_	11	case	_	start_char=7841|end_char=7843
+10	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	start_char=7844|end_char=7847
+11	culture	culture	NOUN	NN	Number=Sing	7	obl	_	start_char=7848|end_char=7855
+12	.	.	PUNCT	.	_	7	punct	_	start_char=7855|end_char=7856
+
+# text = Saluting Maharishi Aurobindo once again, many thanks to all of you from the bottom of my heart!
+# sent_id = 84
+1	Saluting	salute	VERB	VBG	VerbForm=Ger	0	root	_	start_char=8096|end_char=8104
+2	Maharishi	Maharishi	PROPN	NNP	Number=Sing	1	obj	_	start_char=8105|end_char=8114
+3	Aurobindo	Aurobindo	PROPN	NNP	Number=Sing	2	flat	_	start_char=8115|end_char=8124
+4	once	once	ADV	RB	NumType=Mult	5	advmod	_	start_char=8125|end_char=8129
+5	again	again	ADV	RB	_	1	advmod	_	start_char=8130|end_char=8135
+6	,	,	PUNCT	,	_	1	punct	_	start_char=8135|end_char=8136
+7	many	many	ADJ	JJ	Degree=Pos	8	amod	_	start_char=8137|end_char=8141
+8	thanks	thanks	NOUN	NNS	Number=Plur	1	parataxis	_	start_char=8142|end_char=8148
+9	to	to	ADP	IN	_	10	case	_	start_char=8149|end_char=8151
+10	all	all	DET	DT	_	8	nmod	_	start_char=8152|end_char=8155
+11	of	of	ADP	IN	_	12	case	_	start_char=8156|end_char=8158
+12	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	10	nmod	_	start_char=8159|end_char=8162
+13	from	from	ADP	IN	_	15	case	_	start_char=8163|end_char=8167
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	start_char=8168|end_char=8171
+15	bottom	bottom	NOUN	NN	Number=Sing	8	nmod	_	start_char=8172|end_char=8178
+16	of	of	ADP	IN	_	18	case	_	start_char=8179|end_char=8181
+17	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	18	nmod:poss	_	start_char=8182|end_char=8184
+18	heart	heart	NOUN	NN	Number=Sing	15	nmod	_	start_char=8185|end_char=8190
+19	!	!	PUNCT	.	_	1	punct	_	start_char=8190|end_char=8191
+
